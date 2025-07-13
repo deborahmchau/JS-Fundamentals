@@ -1,1 +1,1 @@
-Add script that prints 'JavaScript is amazing'
+Fundamentals of JavaScript practise. 
